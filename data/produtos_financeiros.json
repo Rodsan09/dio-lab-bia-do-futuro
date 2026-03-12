@@ -32,6 +32,14 @@
     "indicado_para": "Perfil moderado que busca diversificação"
   },
   {
+    "nome": "Fundo Imobiliário (FII)",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Média de Dividend Yield entre 7 e 10%",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil moderado que busca diversificação e renda recorrente"
+  },
+  {
     "nome": "Fundo de Ações",
     "categoria": "fundo",
     "risco": "alto",
