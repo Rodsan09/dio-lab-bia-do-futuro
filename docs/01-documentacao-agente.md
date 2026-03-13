@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Muitas pessoas tem dificuldades em investimentos, em entender o que é cada tipo de investimento, sejá ele renda fixa ou variável.
+Muitas pessoas tem dificuldades em investimentos, em entender o que é cada tipo de investimento, seja ele renda fixa ou variável.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
