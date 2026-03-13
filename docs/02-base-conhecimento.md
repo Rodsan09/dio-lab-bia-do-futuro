@@ -1,5 +1,12 @@
 # Base de Conhecimento
 
+> [!TIP]
+> **Prompt usado para esta etapa:**
+> 
+> Organize a base de conhecimento do agente "InvestIA" usando os 4 arquivos da pasta `data/` (em anexo). Explique pra que serve cada arquivo e monte um exemplo de contexto formatado que será enviado pro LLM. Preencha o template abaixo.
+>
+> [cole ou anexe o template `02-base-conhecimento.md` pra contexto]
+
 ## Dados Utilizados
 
 | Arquivo | Formato | Utilização no Agente |
