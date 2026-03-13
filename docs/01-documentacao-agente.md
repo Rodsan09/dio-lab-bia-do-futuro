@@ -22,7 +22,7 @@ Investidores iniciantes
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-Invest Fácil
+InvestIA
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
