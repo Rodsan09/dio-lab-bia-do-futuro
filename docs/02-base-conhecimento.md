@@ -38,7 +38,7 @@ Os dados são incluídos diretamente no prompt ou via código como no exemplo ab
 import pandas as pd
 import json
 
-# ========= CARREGAR DADOS =========
+
 perfil = json.load(open('./data/perfil_investidor.json'))
 transacoes = pd.read_csv('./data/transacoes.csv')
 historico = pd.read_csv('./data/historico_atendimento.csv')
